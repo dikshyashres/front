@@ -1,0 +1,23 @@
+{
+    "alerts": [
+      {
+        "id": "1",
+        "title": "Intruder Detected",
+        "location": "KEC Library",
+        "time": "12:30 PM",
+        "acknowledged": false
+      },
+      {
+        "id": "2",
+        "title": "Suspicious Object Found",
+        "location": "Parking Lot",
+        "time": "11:45 AM",
+        "acknowledged": false
+      }
+    ],
+    "userSettings": {
+      "username": "Dikshya",
+      "notifications": true
+    }
+  }
+  
